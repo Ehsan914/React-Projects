@@ -31,5 +31,3 @@ A simple React counter application with increment, decrement, and reset function
 ## Deployment
 
 You can deploy this app to Netlify or Vercel. No need to upload `node_modules`—just push your code and connect your repo.
-
-## License MIT
